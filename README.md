@@ -1,1 +1,3 @@
-# React-Movie_browser
+# Simple movie search app using React
+
+## 
