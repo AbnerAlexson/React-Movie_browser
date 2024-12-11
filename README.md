@@ -14,4 +14,5 @@
 - Styling is made using BootStrap 5
 - the API used for the movie database is The Open Movie Database (OMDb API )
 - 404 page is showed when the link is altered to redirect to a website that does not exist
+- This webapp was created a few months ago
   
